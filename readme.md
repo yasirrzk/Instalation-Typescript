@@ -41,6 +41,7 @@ Ini adalah panduan langkah demi langkah untuk menginstal typescript.
   >"author": "",
   
   >"license": "ISC"
+
 > }
 
 
